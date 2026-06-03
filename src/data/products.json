@@ -1,0 +1,1723 @@
+[
+  {
+    "id": "sec-acw-plain-hard",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Plain Cut-off Wheel – Hard Ferrous",
+    "description": "Plain abrasive cut-off wheels designed for hard ferrous materials. Suitable for standard abrasive cutting machines.",
+    "application": "Hard ferrous materials with hardness 40–60 HRC",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CW001R", "200 x 31.75 x 1"],
+      ["CW01R-1.5", "200 x 31.75 x 1.5"],
+      ["CW002", "250 x 31.75 x 1.5"],
+      ["CW003", "300 x 31.75 x 1.5"],
+      ["CW004", "350 x 31.75 x 2.5"]
+    ]
+  },
+  {
+    "id": "sec-acw-plain-soft",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Plain Cut-off Wheel – Soft Ferrous",
+    "description": "Plain abrasive cut-off wheels for soft to medium ferrous materials and cast iron.",
+    "application": "Ferrous materials with hardness up to 40 HRC",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CW001S", "200 x 31.75 x 1"],
+      ["CW01S-0.7", "203 x 25.4 x 0.7"],
+      ["CW01S-1", "200 x 31.75 x 1"],
+      ["CW005", "250 x 31.75 x 1.5"],
+      ["CW006", "300 x 31.75 x 2"],
+      ["CW007", "350 x 31.75 x 2.5"]
+    ]
+  },
+  {
+    "id": "sec-acw-plain-nonferrous",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Plain Cut-off Wheel – Non-Ferrous & Cast Iron",
+    "description": "Abrasive cut-off wheels for non-ferrous materials, ferrous and cast iron.",
+    "application": "Non-ferrous materials, ferrous & cast iron",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CWA005", "200 x 31.75 x 1.5"],
+      ["CWA006", "200 x 31.75 x 1"],
+      ["CWA007", "200 x 31.75 x 1.5"],
+      ["CWA008", "203 x 25.4 x 0.7"]
+    ]
+  },
+  {
+    "id": "sec-acw-breakage-partial",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Breakage Resistant Wheel – Partially Reinforced",
+    "description": "Partially reinforced abrasive cut-off wheels with improved breakage resistance for tough cutting applications.",
+    "application": "Ferrous materials with hardness up to 40 HRC. More breakage resistant for tough cutting applications.",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CW003PR", "300 x 31.75 x 1.5"],
+      ["CW009PR", "400 x 31.75 x 3.2"],
+      ["CW013P", "500 x 31.75 x 3.2"],
+      ["CW014", "500 x 40 x 3.2"]
+    ]
+  },
+  {
+    "id": "sec-acw-breakage-full",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Breakage Resistant Wheel – Fully Reinforced",
+    "description": "Fully reinforced abrasive cut-off wheels for heavy-duty cutting on hard ferrous materials.",
+    "application": "Hard ferrous materials with hardness up to 60 HRC. Suited to heavy-duty components.",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CW003FR", "350 x 31.75 x 2"],
+      ["CWF008FR", "350 x 31.75 x 3"],
+      ["ECW007", "350 x 31.75 x 2 FRC"],
+      ["CW009FR", "400 x 31.75 x 3.2"],
+      ["CW013S", "500 x 31.75 x 3.2"],
+      ["CW015FR", "500 x 31.75 x 3.2"]
+    ]
+  },
+  {
+    "id": "sec-acw-high-hardness",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Cut-off Wheel – High Hardness Steel (50–65 HRC)",
+    "description": "Abrasive cut-off wheels for high hardened and graded steel material with hardness 50–65 HRC.",
+    "application": "Materials with hardness 50–65 HRC. High hardened and graded steel.",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CW025", "250 x 31.75 x 1.5"],
+      ["CW009", "300 x 31.75 x 1.5"]
+    ]
+  },
+  {
+    "id": "sec-acw-usa-abrasive",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Supreme Cutting Finish Wheel – USA Grade (Abrasive Machines)",
+    "description": "Premium USA grade abrasive cut-off wheels for abrasive cutting machines. Superior finish across a wide range of materials.",
+    "application": "Tool steels, cast iron, hardened steels, medium hard steels, super alloys, aluminium, brass, titanium and zirconium.",
+    "grade": "USA",
+    "notes": "MOQ: 10 Pcs. Delivery 5 to 6 weeks. Rubber bonded wheels for high quality burn-free sectioning also available.",
+    "moq": "10 Pcs",
+    "variantColumns": ["Code No", "Dimensions (mm)", "Application"],
+    "variants": [
+      ["CW-031", "255 x 1.5 x 31.75", "Tool Steels, Cast Iron (above 60 HRC)"],
+      ["CW-032", "255 x 1.5 x 31.75", "Hardened Steels (above 50 HRC)"],
+      ["CW-033", "255 x 1.5 x 31.75", "Medium Hard Steels and Super alloys (35–50 HRC)"],
+      ["CW-034", "255 x 1.5 x 31.75", "Medium Soft Metals (15–35 HRC)"],
+      ["CW-036", "255 x 1.5 x 31.75", "Aluminium, Brass, Titanium and Zirconium"]
+    ]
+  },
+  {
+    "id": "sec-acw-usa-precision",
+    "category": "sectioning",
+    "subcategory": "Abrasive Cut-off Wheels",
+    "title": "Supreme Cutting Finish Wheel – USA Grade (Precision Machines)",
+    "description": "Premium USA grade abrasive cut-off wheels for precision cutting machines.",
+    "application": "General ferrous, non-ferrous, titanium and other alloys.",
+    "grade": "USA",
+    "notes": "Rubber bonded wheels for high quality burn-free sectioning also available.",
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)", "Application"],
+    "variants": [
+      ["647", "152 x 1 x 16", "Titanium and other alloys"],
+      ["4F12", "101 x 0.3 x 12.7", "General Ferrous"],
+      ["4NF12", "101 x 0.3 x 12.7", "General Non-Ferrous"],
+      ["5F20H", "127 x 0.5 x 12.7", "General Ferrous"],
+      ["5F20S", "127 x 0.3 x 12.7", "Soft to medium hard ferrous (below 45 HRC)"]
+    ]
+  },
+  {
+    "id": "sec-pcw-soft",
+    "category": "sectioning",
+    "subcategory": "Precision Cut-off Wheels",
+    "title": "Precision Cut-off Wheel – Soft to Medium Materials",
+    "description": "Precision cut-off wheels for small components and thin slicing on abrasive cutting machines. For soft to medium materials.",
+    "application": "Medium soft steels, thin cut, cast iron, cast steel, KS steel, brass, bronze, aluminium alloys, tungsten molybdenum alloy, pure titanium, lead alloy, glass (15–35 HRC)",
+    "grade": "Standard",
+    "notes": "MOQ: 10 Nos. Delivery 5 to 6 weeks. Imported items.",
+    "moq": "10 Nos",
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["PCW0001", "150 x 0.5 x 25.4"],
+      ["PCW0002", "150 x 1.0 x 25.4"],
+      ["PCW0003", "205 x 0.8 x 31.75"],
+      ["PCW0004", "255 x 1.2 x 31.75"],
+      ["PCW0005", "305 x 1.2 x 31.75"]
+    ]
+  },
+  {
+    "id": "sec-pcw-hard",
+    "category": "sectioning",
+    "subcategory": "Precision Cut-off Wheels",
+    "title": "Precision Cut-off Wheel – Hard Ferrous Materials",
+    "description": "Precision cut-off wheels for small components and thin slicing of hard ferrous alloys on abrasive cutting machines.",
+    "application": "Hard ferrous alloys, alloy tool steel, bearing steel, stainless steel, heat resistant steel, invar steel, silicon steel, hardened steels up to 60 HRC",
+    "grade": "Standard",
+    "notes": "MOQ: 10 Nos. Delivery 5 to 6 weeks. Imported items.",
+    "moq": "10 Nos",
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["PCW1001", "150 x 0.5 x 25.4"],
+      ["PCW1002", "150 x 1.0 x 25.4"],
+      ["PCW1003", "205 x 0.7 x 31.75"],
+      ["PCW1004", "255 x 1.2 x 31.75"],
+      ["PCW1005", "305 x 1.2 x 31.75"],
+      ["PCW1006", "355 x 2.0 x 31.75"],
+      ["PCW1007", "405 x 2.5 x 31.75"]
+    ]
+  },
+  {
+    "id": "sec-pcw-series2",
+    "category": "sectioning",
+    "subcategory": "Precision Cut-off Wheels",
+    "title": "Precision Cut-off Wheel – Series 2",
+    "description": "Precision cut-off wheels for abrasive cutting machines, Series 2.",
+    "application": "General precision cutting applications",
+    "grade": "Standard",
+    "notes": "MOQ: 10 Nos. Delivery 5 to 6 weeks. Imported items.",
+    "moq": "10 Nos",
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["PCW2001", "150 x 0.5 x 25.4"],
+      ["PCW2002", "205 x 0.8 x 25.4"],
+      ["PCW2003", "230 x 1.2 x 31.75"],
+      ["PCW2004", "255 x 1.2 x 31.75"]
+    ]
+  },
+  {
+    "id": "sec-pcw-spacer",
+    "category": "sectioning",
+    "subcategory": "Precision Cut-off Wheels",
+    "title": "Wheel Spacer",
+    "description": "Spacer to fit 1 inch spindle and wheel. Adapts wheels with 31.75 mm ID to 25.4 mm ID spindles.",
+    "application": "Adapting precision cut-off wheels to spindle sizes",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Description"],
+    "variants": [
+      ["CWS06", "Fits 1\" spindle – adapts 31.75 mm ID wheel to 25.4 mm ID"]
+    ]
+  },
+  {
+    "id": "sec-dwd-japanese",
+    "category": "sectioning",
+    "subcategory": "Diamond Wafering Blades",
+    "title": "Diamond Wafering Blade – Japanese Grade",
+    "description": "Japanese grade diamond wafering blades for precision cutting of ceramics, glass, copper, iron and hard non-metallic materials.",
+    "application": "Alumina ceramic, silicon-nitride ceramic, glass, copper, iron, ruby, quartz, silica",
+    "grade": "Japanese",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["CWD001", "100 x 12.7 x 0.3"],
+      ["CWD002", "150 x 31.75 x 1"],
+      ["CWD003", "200 x 31.75 x 1.2"],
+      ["CWD004", "250 x 31.75 x 1.4"],
+      ["CWD005", "250 x 31.75 x 1.5"]
+    ]
+  },
+  {
+    "id": "sec-dwd-diamond-regular",
+    "category": "sectioning",
+    "subcategory": "Diamond Wafering Blades",
+    "title": "Diamond Wafering Blade – Regular Grade",
+    "description": "Regular grade diamond wafering blades for precision saws. Ceramics, composites, hard ferrous materials.",
+    "application": "Ceramics, carbides, boron composites, glass, refractory, polymers, PC boards, titanium, thermal spray coating, hard ferrous materials",
+    "grade": "Regular",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)", "Application"],
+    "variants": [
+      ["M306L", "75 x 12.7 x 0.15", "Ceramics, carbides, boron composites, glass, refractory (above 60 HRC)"],
+      ["M412L", "100 x 12.7 x 0.3", "Ceramics, carbides, boron composites, glass, refractory (above 60 HRC)"],
+      ["M515L", "125 x 12.7 x 0.4", "Ceramics, carbides, boron composites, glass, refractory (above 60 HRC)"],
+      ["M620L", "150 x 12.7 x 0.5", "Ceramics, carbides, boron composites, glass, refractory (above 60 HRC)"],
+      ["M725L", "175 x 12.7 x 0.6", "Ceramics, carbides, boron composites, glass, refractory (above 60 HRC)"],
+      ["M306H", "75 x 12.7 x 0.15", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["M412H", "100 x 12.7 x 0.3", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["M515H", "125 x 12.7 x 0.4", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["M620H", "150 x 12.7 x 0.5", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["M725H", "175 x 12.7 x 0.6", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["M845D", "200 x 31.75 x 1.1", "Hard ferrous materials"],
+      ["M1050D", "250 x 31.75 x 1.3", "Hard ferrous materials"],
+      ["M1262D", "300 x 31.75 x 1.6", "Hard ferrous materials"],
+      ["M1470D", "355 x 31.75 x 1.8", "Hard ferrous materials"]
+    ]
+  },
+  {
+    "id": "sec-dwd-diamond-premium",
+    "category": "sectioning",
+    "subcategory": "Diamond Wafering Blades",
+    "title": "Diamond Wafering Blade – Premium Grade",
+    "description": "Premium grade diamond wafering blades for precision saws. Higher performance for demanding applications.",
+    "application": "Ceramics, carbides, boron composites, glass, refractory, polymers, PC boards, titanium, thermal spray coating, hard ferrous materials",
+    "grade": "Premium",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)", "Application"],
+    "variants": [
+      ["EU306L", "75 x 12.7 x 0.15", "Ceramics, carbides, boron composites, glass, refractory"],
+      ["EU412L", "100 x 12.7 x 0.3", "Ceramics, carbides, boron composites, glass, refractory"],
+      ["EU515L", "125 x 12.7 x 0.4", "Ceramics, carbides, boron composites, glass, refractory"],
+      ["EU620L", "150 x 12.7 x 0.5", "Ceramics, carbides, boron composites, glass, refractory"],
+      ["EU725L", "175 x 12.7 x 0.6", "Ceramics, carbides, boron composites, glass, refractory"],
+      ["EU306H", "75 x 12.7 x 0.15", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["EU412H", "100 x 12.7 x 0.3", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["EU515H", "125 x 12.7 x 0.4", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["EU620H", "150 x 12.7 x 0.5", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["EU725H", "175 x 12.7 x 0.6", "Polymers, PC boards, titanium, thermal spray coating"],
+      ["EU845D", "200 x 31.75 x 1.1", "Hard ferrous materials"],
+      ["EU1050D", "250 x 31.75 x 1.3", "Hard ferrous materials"],
+      ["EU1262D", "300 x 31.75 x 1.6", "Hard ferrous materials"],
+      ["EU1470D", "355 x 31.75 x 1.8", "Hard ferrous materials"]
+    ]
+  },
+  {
+    "id": "sec-cbn-regular",
+    "category": "sectioning",
+    "subcategory": "CBN Wafering Blades",
+    "title": "CBN Wafering Blade – Regular Grade",
+    "description": "Regular grade CBN (Cubic Boron Nitride) wafering blades for precision saws. Ideal for high speed steels and superalloys.",
+    "application": "High speed steels, Inconel, Stellite, iron and cobalt based alloys, nickel based super alloys, lead base alloys, titanium alloys, stainless steels",
+    "grade": "Regular",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["EU306C", "75 x 12.7 x 0.15"],
+      ["EU412C", "100 x 12.7 x 0.3"],
+      ["EU515C", "125 x 12.7 x 0.4"],
+      ["EU620C", "150 x 12.7 x 0.5"],
+      ["EU725C", "175 x 12.7 x 0.6"],
+      ["EU845C", "200 x 31.75 x 1.1"],
+      ["EU1050C", "250 x 31.75 x 1.3"],
+      ["EU1262C", "300 x 31.75 x 1.6"],
+      ["EU1470C", "355 x 31.75 x 1.8"]
+    ]
+  },
+  {
+    "id": "sec-cbn-premium",
+    "category": "sectioning",
+    "subcategory": "CBN Wafering Blades",
+    "title": "CBN Wafering Blade – Premium Grade",
+    "description": "Premium grade CBN wafering blades for precision saws. Superior performance for tough superalloys and hard steels at high speed.",
+    "application": "High speed steels, Inconel, Stellite, iron and cobalt based alloys, nickel based super alloys, lead base alloys, titanium alloys, stainless steels (high speed)",
+    "grade": "Premium",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)"],
+    "variants": [
+      ["M306C", "75 x 12.7 x 0.15"],
+      ["M412C", "100 x 12.7 x 0.3"],
+      ["M515C", "125 x 12.7 x 0.4"],
+      ["M620C", "150 x 12.7 x 0.5"],
+      ["M725C", "175 x 12.7 x 0.6"],
+      ["M845C", "200 x 31.75 x 1.1"],
+      ["M1050C", "250 x 31.75 x 1.3"],
+      ["M1262C", "300 x 31.75 x 1.6"],
+      ["M1470C", "355 x 31.75 x 1.8"]
+    ]
+  },
+  {
+    "id": "sec-diamond-cutoff",
+    "category": "sectioning",
+    "subcategory": "Diamond Cut-off Wheels",
+    "title": "Diamond Cut-off Wheel",
+    "description": "Diamond cut-off blades for use in diamond saws. Suitable for cutting carbide rods and hard materials.",
+    "application": "Carbide rod cutting and hard material sectioning",
+    "grade": "Standard",
+    "notes": "Diamond and CBN wheels to be handled with care. Right grade to be chosen by the customer.",
+    "moq": null,
+    "variantColumns": ["Code No", "Dimensions (mm)", "Application"],
+    "variants": [
+      ["CWD005", "250 x 31.75 x 1.5", "General diamond cutting"],
+      ["CRCW002", "300 x 31.75 x 1.5", "Carbide rod cutting"],
+      ["CRCW003", "300 x 2.5 x 31.75", "Carbide rod cutting"],
+      ["CWD017", "203 x 1.2 x 31.75", "General diamond cutting"]
+    ]
+  },
+  {
+    "id": "sec-cutting-fluid",
+    "category": "sectioning",
+    "subcategory": "Cutting Fluid & Accessories",
+    "title": "Cutting Fluid & Coolant",
+    "description": "Corrosion-free coolant and cutting fluids for abrasive and precision cutting machines.",
+    "application": "Coolant systems for abrasive and precision cutting saws",
+    "grade": "Standard",
+    "notes": "Change coolant fully at least once in 3 months. Top up at least once a week. Do not mix LSS Oil with water.",
+    "moq": null,
+    "variantColumns": ["Code No", "Product", "Volume", "Description"],
+    "variants": [
+      ["CFC008", "Mcool MC20", "1 Ltr", "Corrosion-free coolant, ratio 1:20 (oil : demin water)"],
+      ["1.2 DB 101", "LSS Oil", "1 Ltr", "Oil-based coolant. Reduces cutting cycle time. For precision saws. Do not mix with water."],
+      ["CAFO009", "Coolant Antifoam", "1 Ltr", "Anti-foaming agent for coolant systems"]
+    ]
+  },
+  {
+    "id": "sec-dressing-filter",
+    "category": "sectioning",
+    "subcategory": "Cutting Fluid & Accessories",
+    "title": "Dressing Sticks & Filter Bags",
+    "description": "Dressing sticks to maintain diamond wafering blade performance. Filter bags to collect cutting debris and sludge.",
+    "application": "Maintenance of diamond wafering blades and grinding discs. Coolant filtration.",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Product", "Size / QTY"],
+    "variants": [
+      ["DS-10", "Dressing Stick", "4\" x 0.5\""],
+      ["CB01037A00", "Filter Bag (100 Micron)", "1 No"]
+    ]
+  },
+  {
+    "id": "mnt-hot-phenolic-std",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Standard",
+    "title": "Phenolic Mounting Powder – Standard Grade",
+    "description": "Compression mounting powder for routine metallographic analysis. Fast cycle time. Available in multiple colours.",
+    "application": "Regular analysis with fast cycle time",
+    "grade": "Standard",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["MB101", "Black"],
+      ["MB102", "Red"],
+      ["MB103", "Green"]
+    ]
+  },
+  {
+    "id": "mnt-hot-transparent-std",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Standard",
+    "title": "Transparent Mounting Powder – Standard Grade",
+    "description": "Compression mounting powder for applications requiring complete visibility of the sample. Good flow characteristics.",
+    "application": "Applications requiring complete visibility of the sample",
+    "grade": "Standard",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour", "Form"],
+    "variants": [
+      ["MT104", "White", "Powder"],
+      ["MTG105", "Transparent", "Granules"]
+    ]
+  },
+  {
+    "id": "mnt-hot-conductive-std",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Standard",
+    "title": "Conductive Mounting Powder – Standard Grade",
+    "description": "Conductive compression mounting powder for SEM (Scanning Electron Microscope) analysis.",
+    "application": "SEM analysis requiring conductive sample",
+    "grade": "Standard",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["MB105", "Brown"]
+    ]
+  },
+  {
+    "id": "mnt-hot-copper-conductive",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Standard",
+    "title": "Copper Conductive Mounting Powder",
+    "description": "Copper-filled conductive powder for SEM analysis. Excellent electrical conductivity.",
+    "application": "SEM analysis requiring highly conductive copper-filled sample",
+    "grade": "Standard",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["CCP001", "Brown"]
+    ]
+  },
+  {
+    "id": "mnt-hot-mold-release",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Standard",
+    "title": "Mold Release Spray & Powder",
+    "description": "Anti-stick agents for hot mounting chamber walls for easy removal of the mold.",
+    "application": "Applied on mounting chamber walls before hot compression mounting",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Type", "Quantity"],
+    "variants": [
+      ["MS001", "Mold Release Spray", "200 ml"],
+      ["MS002", "Mold Release Powder", "10 g"]
+    ]
+  },
+  {
+    "id": "mnt-hot-phenolic-premium",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Premium",
+    "title": "Phenolic Mounting Powder – Premium Grade",
+    "description": "Premium grade compression mounting powder for medium hard materials. Moderate edge retention.",
+    "application": "Regular analysis of medium hard materials with moderate edge retention",
+    "grade": "Premium",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["M126", "Black"],
+      ["M127", "Red"],
+      ["M128", "Green"]
+    ]
+  },
+  {
+    "id": "mnt-hot-epoxy-premium",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Premium",
+    "title": "Epoxy Powder – Fine Glass Filled (Premium)",
+    "description": "Fine glass filled epoxy compression mounting powder. Excellent edge retention for coating thickness and case depth measurement.",
+    "application": "Coating thickness measurement, case depth measurement, fastener profile analysis on hard materials. Excellent edge retention.",
+    "grade": "Premium",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["M131", "Blue"]
+    ]
+  },
+  {
+    "id": "mnt-hot-dap-glass",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Premium",
+    "title": "Diallyl Phthalate – Glass Filled (Premium)",
+    "description": "Glass filled DAP compression mounting powder. More abrasion resistant than mineral filled. Excellent edge retention.",
+    "application": "High end applications on hard materials. Excellent edge retention.",
+    "grade": "Premium",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["M129", "Black"]
+    ]
+  },
+  {
+    "id": "mnt-hot-dap-mineral",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Premium",
+    "title": "Diallyl Phthalate – Mineral Filled (Premium)",
+    "description": "Mineral filled DAP compression mounting powder for high end applications on moderately hard materials. Excellent edge retention.",
+    "application": "Coating thickness and case depth measurement on moderately hard materials. Excellent edge retention.",
+    "grade": "Premium",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No"],
+    "variants": [
+      ["M130"]
+    ]
+  },
+  {
+    "id": "mnt-hot-transparent-premium",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Premium",
+    "title": "Transparent Mounting Powder – Premium Grade",
+    "description": "Premium grade transparent compression mounting powder. Complete sample visibility. Fair edge retention.",
+    "application": "Applications requiring complete visibility of the sample. Fair edge retention.",
+    "grade": "Premium",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["M125", "White"]
+    ]
+  },
+  {
+    "id": "mnt-hot-technotherm",
+    "category": "mounting",
+    "subcategory": "Hot Mounting – Premium",
+    "title": "Technotherm 3000 – Conductive Powder",
+    "description": "Conductive compression mounting powder for SEM analysis. Moderate edge retention.",
+    "application": "SEM analysis requiring conductive sample. Moderate edge retention.",
+    "grade": "Premium",
+    "notes": "1 KG per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Colour"],
+    "variants": [
+      ["66003630", "Black"]
+    ]
+  },
+  {
+    "id": "mnt-cold-standard",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems",
+    "title": "Cold Mounting Compound – Standard",
+    "description": "Standard two-component cold mounting system. Powder and liquid. General purpose for everyday metallographic sample preparation.",
+    "application": "General day-to-day sample preparation. Pink opaque colour.",
+    "grade": "Standard",
+    "notes": "400 g powder + 400 ml liquid",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time", "Colour"],
+    "variants": [
+      ["MC001", "Resin 2 : Hardener 1", "15 minutes", "Pink, opaque"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-epox",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit Epox – Transparent Embedding",
+    "description": "German grade Technovit Epox cold mounting. Transparent high clear embedding. Vacuum impregnation required.",
+    "application": "Transparent high clear embedding. Vacuum impregnation required.",
+    "grade": "German",
+    "notes": "Components: Resin 1000 ml, Hardener Regular A 1000 ml, Hardener Fast B 1000 ml",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time"],
+    "variants": [
+      ["TECH001", "Resin 2 : Hardener 1", "18 hours"],
+      ["TECH002", "Resin 2 : Hardener 1", "10 hours"],
+      ["TECH003", "Resin 2 : Hardener 1", "Standard"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-4000",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit 4000 – Gap Free Non-Shrinkage",
+    "description": "Gap free, non-shrinkage cold mounting. White coloured opaque mold. Three-component system.",
+    "application": "Gap free, non-shrinkage embedding. White coloured opaque mold.",
+    "grade": "German",
+    "notes": "Powder + Syrup 1 + Syrup 2",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time", "Pack Size"],
+    "variants": [
+      ["TECH026", "Powder 2 : Syrup1 2 : Syrup2 1", "10–13 min", "1500g + 1000 ml + 500 ml"],
+      ["TECH026(S)", "Powder 2 : Syrup1 2 : Syrup2 1", "10–13 min", "750g + 500 ml + 250 ml"],
+      ["TECH026(L)", "Powder 2 : Syrup1 2 : Syrup2 1", "10–13 min", "Large pack"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-4006",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit 4006 – High Clear Embedding",
+    "description": "German grade high clear embedding cold mounting system. Vacuum unit required.",
+    "application": "High clear embedding. Vacuum unit required.",
+    "grade": "German",
+    "notes": "Powder 1000g + Liquid 1000ml",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time"],
+    "variants": [
+      ["TECH0014", "Powder 2 : Liquid 1", "10–13 min"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-4006se",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit 4006 SE – Semi-Transparent Improved Grinding",
+    "description": "High clear semi-transparent mounting with improved grinding properties. Vacuum unit required.",
+    "application": "High clear semi-transparent mould. Improved grinding properties. Vacuum unit required.",
+    "grade": "German",
+    "notes": "Powder 1000g + Liquid 1000ml",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time"],
+    "variants": [
+      ["TECH0030", "Powder 2 : Liquid 1", "11–15 min"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-4071",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit 4071 – Quick Embedding",
+    "description": "Green semi-transparent cold mounting system for quick embedding.",
+    "application": "Green semi-transparent mold, quick embedding.",
+    "grade": "German",
+    "notes": "Powder 1000g + Liquid 1000ml",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time"],
+    "variants": [
+      ["TECH005", "Powder 2 : Liquid 1", "5–7 min"],
+      ["TECH0013", "Powder 2 : Liquid 1", "5–7 min"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-5071",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit 5071 – Green Semi-Transparent",
+    "description": "Green semi-transparent cold mounting. Dissolves in acetone.",
+    "application": "Green semi-transparent embedding. Dissolves in acetone.",
+    "grade": "German",
+    "notes": "Powder 1000g + Liquid 1000ml",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time"],
+    "variants": [
+      ["TECH008", "Powder 2 : Liquid 1", "8–10 min"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-5000",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit 5000 – Conductive Cold Mounting",
+    "description": "Conductive material embedding. Brown opaque mold for SEM analysis.",
+    "application": "Conductive material embedding for SEM analysis. Brown opaque mold.",
+    "grade": "German",
+    "notes": "Powder 1000g + Liquid 1000ml",
+    "moq": null,
+    "variantColumns": ["Code No", "Mix Ratio", "Cure Time"],
+    "variants": [
+      ["TECH023", "20g Powder : 30ml Liquid", "7–12 min"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-universal",
+    "category": "mounting",
+    "subcategory": "Cold Mounting Systems – German Grade",
+    "title": "Technovit Universal Liquid",
+    "description": "Universal liquid component for Technovit cold mounting systems.",
+    "application": "Universal liquid component for Technovit cold mounting systems",
+    "grade": "German",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No"],
+    "variants": [
+      ["TECH009"]
+    ]
+  },
+  {
+    "id": "mnt-cold-technovit-3040",
+    "category": "mounting",
+    "subcategory": "Cold Mounting – Precision Impression",
+    "title": "Technovit 3040 – Precision Impression (1 µm accuracy)",
+    "description": "Precision impression compound for indirect surface inspection. 1 µm dimensional accuracy.",
+    "application": "Indirect surface inspection. 1 µm dimensional accuracy.",
+    "grade": "German",
+    "notes": "Choose Technovit 3040 for 1 µm accuracy, Provil Novo for < 0.1 µm accuracy.",
+    "moq": null,
+    "variantColumns": ["Code No", "Components"],
+    "variants": [
+      ["TECH010", "Technovit Universal Liquid, 1000 ml"],
+      ["TECH011", "Yellow Powder C, 1000 g"],
+      ["TECH012", "Black Powder C, 1000 g"]
+    ]
+  },
+  {
+    "id": "mnt-cold-provil-novo",
+    "category": "mounting",
+    "subcategory": "Cold Mounting – Precision Impression",
+    "title": "Provil Novo – Ultra Precision Impression (< 0.1 µm)",
+    "description": "Ultra-precision impression compounds for < 0.1 µm dimensional accuracy. Putty and light versions available.",
+    "application": "Indirect surface inspection requiring < 0.1 µm dimensional accuracy.",
+    "grade": "German",
+    "notes": "Base 450 ml + Catalyst 450 ml per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Type", "Mix Ratio"],
+    "variants": [
+      ["TECH017", "Provil Novo Putty Regular", "Base 1 : Catalyst 1"],
+      ["TECH024", "Provil Novo Putty Regular Soft", "Base 1 : Catalyst 1"],
+      ["TECH025", "Provil Novo Light Regular", "One component, 2 x 50 ml"]
+    ]
+  },
+  {
+    "id": "mnt-rubber-mould-std",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "Rubber Mould – Standard Grade",
+    "description": "Reusable rubber moulds for cold mounting in standard sizes.",
+    "application": "Cold mounting mold for sample preparation",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Size (mm)"],
+    "variants": [
+      ["MDSI001", "20"],
+      ["MDSI002", "25"],
+      ["MDSI003", "30"],
+      ["MDSI004", "40"],
+      ["MDSI005", "50"],
+      ["MDSI006", "55 x 25"],
+      ["MDSI007", "70 x 40"],
+      ["MDSI008", "100 x 50"]
+    ]
+  },
+  {
+    "id": "mnt-rubber-mould-premium",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "Rubber Mould – Premium Quality (US Grade)",
+    "description": "Premium quality long-life US grade rubber moulds for cold mounting.",
+    "application": "Cold mounting mold – longer life",
+    "grade": "USA",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Size"],
+    "variants": [
+      ["M157", "1\""],
+      ["M158", "1¼\""],
+      ["M159", "1½\""],
+      ["RM2", "2\""],
+      ["RM3A", "3\""]
+    ]
+  },
+  {
+    "id": "mnt-metallic-die",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "Metallic Die",
+    "description": "Metallic dies for cold mounting sample preparation.",
+    "application": "Cold mounting die",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Size"],
+    "variants": [
+      ["MDI001", "1\""],
+      ["MDI002", "1¼\""],
+      ["MDI003", "1½\""],
+      ["MDI004", "2\""]
+    ]
+  },
+  {
+    "id": "mnt-reusable-plastic-mould",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "Reusable Plastic Mould",
+    "description": "Reusable plastic mould for cold mounting.",
+    "application": "Cold mounting mold, reusable",
+    "grade": "Standard",
+    "notes": "0.25 kg",
+    "moq": null,
+    "variantColumns": ["Code No", "Size (mm)"],
+    "variants": [
+      ["MPSI011", "30"]
+    ]
+  },
+  {
+    "id": "mnt-clips",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "Mounting Clips",
+    "description": "Plastic and metal holding clips for cold mounting. Available in standard and premium USA grades.",
+    "application": "Holding samples during cold mounting",
+    "grade": "Standard / USA",
+    "notes": "100 Nos per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Type", "Grade"],
+    "variants": [
+      ["MCL001", "Standard Plastic Clips (100 Nos)", "Standard"],
+      ["M163", "Metal Clips (100 Nos)", "USA"],
+      ["M174", "Black Plastic Clips (100 Nos)", "USA"]
+    ]
+  },
+  {
+    "id": "mnt-mixing-cup-spatula",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "Mixing Cup & Spatula – German Grade",
+    "description": "Mixing cups and spatulas for preparing cold mounting compounds.",
+    "application": "Mixing cold mounting compounds",
+    "grade": "German",
+    "notes": "10 Nos per pack",
+    "moq": null,
+    "variantColumns": ["Code No", "Type"],
+    "variants": [
+      ["TECH0020", "Mixing Cup (10 Nos)"],
+      ["TECH0021", "Mixing Spatula (10 Nos)"]
+    ]
+  },
+  {
+    "id": "mnt-pcb-cups",
+    "category": "mounting",
+    "subcategory": "Mounting Accessories",
+    "title": "PCB Mounting Cups",
+    "description": "Specialised mounting cups for PCB (printed circuit board) sample cross-section analysis.",
+    "application": "PCB cross-section analysis, multiple sample mounting",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Design", "Size", "Capacity"],
+    "variants": [
+      ["PMC001", "Semi Lattice", "OD: 30mm, H: 18mm", "8 Samples"],
+      ["PMC001", "Full Lattice", "OD: 30mm, H: 18mm", "8 Samples"],
+      ["PMC001", "Square", "24 x 24 x 20 mm", "8 Samples"],
+      ["PMC001", "Rectangular", "24 x 10 x 18 mm", "1 Sample"],
+      ["PMC001", "Small", "20 x 10 mm", "1 Sample"]
+    ]
+  },
+  {
+    "id": "grn-belt-abrasive",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "Abrasive Belt – Standard Grade",
+    "description": "Standard grade abrasive belt for planar grinding of ferrous and non-ferrous materials.",
+    "application": "Coarse grinding of general ferrous and non-ferrous materials",
+    "grade": "Standard",
+    "notes": "Dimension: 100 x 915 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["BA001", "60"],
+      ["BA002", "80"],
+      ["BA003", "120"],
+      ["BA007", "220"],
+      ["BA006", "320"],
+      ["BA004", "400"],
+      ["BA005", "600"]
+    ]
+  },
+  {
+    "id": "grn-belt-economy",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "Abrasive Belt – Economy Grade",
+    "description": "Economy grade abrasive belt for planar grinding. Cost-effective for general materials.",
+    "application": "Coarse grinding of general ferrous and non-ferrous materials",
+    "grade": "Economy",
+    "notes": "Dimension: 100 x 915 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["ECBA001", "60"],
+      ["ECBA002", "80"],
+      ["ECBA003", "120"],
+      ["ECBA010", "1000"]
+    ]
+  },
+  {
+    "id": "grn-belt-wet",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "Wet Grinding Belt",
+    "description": "Water-compatible abrasive belt for planar grinding with water coolant.",
+    "application": "Coarse grinding of ferrous and non-ferrous materials with water",
+    "grade": "Standard",
+    "notes": "Dimension: 100 x 915 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["WBA002", "80"],
+      ["WBA003", "120"]
+    ]
+  },
+  {
+    "id": "grn-belt-zircon",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "Zircon Grinding Belt",
+    "description": "Zircon abrasive belt for stainless steels and aluminium alloys.",
+    "application": "Coarse grinding of stainless steels and aluminium alloys",
+    "grade": "Standard",
+    "notes": "Dimension: 100 x 915 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["ZBA001", "60"],
+      ["ZBA002", "80"],
+      ["ZBA003", "120"]
+    ]
+  },
+  {
+    "id": "grn-belt-heavyduty",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "Heavy Duty Grinding Belt",
+    "description": "Heavy duty abrasive belt for grinding large components.",
+    "application": "Coarse grinding of large ferrous and non-ferrous components",
+    "grade": "Standard",
+    "notes": "Dimension: 150 x 1220 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["HB001", "60"],
+      ["HB002", "80"],
+      ["HB003", "120"]
+    ]
+  },
+  {
+    "id": "grn-belt-linishing",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "Linishing Belt",
+    "description": "Linishing belt for different dimension grinding machines.",
+    "application": "Coarse grinding and linishing of ferrous and non-ferrous materials",
+    "grade": "Standard",
+    "notes": "Dimension: 50 x 2000 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["LBA001", "60"],
+      ["LBA002", "80"]
+    ]
+  },
+  {
+    "id": "grn-belt-sic",
+    "category": "grinding",
+    "subcategory": "Grinding Belts",
+    "title": "SiC Grinding Belt",
+    "description": "Silicon carbide abrasive belt. High bonding strength. Also suitable for petrography samples.",
+    "application": "General purpose grinding and linishing of ferrous and non-ferrous materials. Petrography samples.",
+    "grade": "Standard",
+    "notes": "Dimension: 100 x 915 mm",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["SBA001", "60"],
+      ["SBA002", "80"],
+      ["SBA003", "120"],
+      ["SBA004", "150"]
+    ]
+  },
+  {
+    "id": "grn-paper-regular-sheet",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Papers",
+    "title": "SiC Grinding Paper – Regular Grade Sheet (9\" x 11\")",
+    "description": "Regular grade silicon carbide grinding papers in sheet form. Without PSA backing.",
+    "application": "General metallographic sample grinding",
+    "grade": "Regular",
+    "notes": "Sheet dimension: 9\" x 11\". Without PSA.",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["ES001", "80"], ["ES002", "120"], ["ES003", "180"], ["ES004", "220"],
+      ["ES005", "320"], ["ES006", "400"], ["ES007", "600"], ["ES008", "800"],
+      ["ES009", "1000"], ["ES010", "1200"], ["ES011", "1500"], ["ES012", "2500"]
+    ]
+  },
+  {
+    "id": "grn-paper-premium-sheet",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Papers",
+    "title": "SiC Grinding Paper – Premium Grade Sheet (9\" x 11\")",
+    "description": "Premium grade silicon carbide grinding papers in sheet form. Without PSA backing. Superior performance.",
+    "application": "High quality metallographic sample grinding",
+    "grade": "Premium",
+    "notes": "Sheet dimension: 9\" x 11\". Without PSA.",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["PRE001", "80"], ["PRE002", "120"], ["PRE003", "180"], ["PRE004", "220"],
+      ["PRE005", "320"], ["PRE006", "400"], ["PRE007", "600"], ["PRE008", "800"],
+      ["PRE009", "1000"], ["PRE010", "1200"], ["PRE011", "1500"], ["PRE012", "2500"]
+    ]
+  },
+  {
+    "id": "grn-paper-economy-sheet",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Papers",
+    "title": "SiC Grinding Paper – Economy Grade Sheet (9\" x 11\")",
+    "description": "Economy grade silicon carbide grinding papers in sheet form. Without PSA backing. Cost-effective.",
+    "application": "Routine metallographic sample grinding",
+    "grade": "Economy",
+    "notes": "Sheet dimension: 9\" x 11\". Without PSA.",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["EC001", "80"], ["EC002", "120"], ["EC003", "180"], ["EC004", "220"],
+      ["EC005", "320"], ["EC006", "400"], ["EC007", "600"], ["EC008", "800"],
+      ["EC009", "1000"], ["EC010", "1200"], ["EC011", "1500"], ["EC012", "2500"]
+    ]
+  },
+  {
+    "id": "grn-disc-regular-psa",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "SiC Grinding Disc – Regular Grade (With PSA)",
+    "description": "Regular grade silicon carbide grinding discs with PSA backing. Available in 8\", 10\" and 12\".",
+    "application": "General metallographic sample preparation",
+    "grade": "Regular",
+    "notes": "With PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit Size"],
+    "variants": [
+      ["EA001", "EAE001", "ESE121", "80"], ["EA002", "EAE002", "ESE122", "120"],
+      ["EA003", "EAE003", "ESE123", "180"], ["EA004", "EAE004", "ESE124", "220"],
+      ["EA005", "EAE005", "ESE125", "320"], ["EA006", "EAE006", "ESE126", "400"],
+      ["EA007", "EAE007", "ESE127", "600"], ["EA008", "EAE008", "ESE128", "800"],
+      ["EA009", "EAE009", "ESE129", "1000"], ["EA010", "EAE010", "ESE130", "1200"],
+      ["EA011", "EAE011", "ESE131", "1500"], ["EA012", "EAE012", "ESE132", "2000"]
+    ]
+  },
+  {
+    "id": "grn-disc-regular-nopsa",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "SiC Grinding Disc – Regular Grade (Without PSA)",
+    "description": "Regular grade silicon carbide grinding discs without PSA backing. Available in 8\", 10\" and 12\".",
+    "application": "General metallographic sample preparation",
+    "grade": "Regular",
+    "notes": "Without PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit Size"],
+    "variants": [
+      ["ED001", "EDE001", "ESE101", "80"], ["ED002", "EDE002", "ESE102", "120"],
+      ["ED003", "EDE003", "ESE103", "180"], ["ED004", "EDE004", "ESE104", "220"],
+      ["ED005", "EDE005", "ESE105", "320"], ["ED006", "EDE006", "ESE106", "400"],
+      ["ED007", "EDE007", "ESE107", "600"], ["ED008", "EDE008", "ESE108", "800"],
+      ["ED009", "EDE009", "ESE109", "1000"], ["ED010", "EDE010", "ESE100", "1200"],
+      ["ED011", "EDE011", "ESE111", "1500"], ["ED012", "EDE012", "ESE112", "2000"]
+    ]
+  },
+  {
+    "id": "grn-disc-premium-psa",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "SiC Grinding Disc – Premium Grade (With PSA)",
+    "description": "Premium grade silicon carbide grinding discs with PSA backing. Available in 8\", 10\" and 12\".",
+    "application": "High quality metallographic sample preparation",
+    "grade": "Premium",
+    "notes": "With PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit Size"],
+    "variants": [
+      ["PRE013", "PRE025", "PRE037", "80"], ["PRE014", "PRE026", "PRE038", "120"],
+      ["PRE015", "PRE027", "PRE039", "180"], ["PRE016", "PRE028", "PRE040", "220"],
+      ["PRE017", "PRE029", "PRE041", "320"], ["PRE018", "PRE030", "PRE042", "400"],
+      ["PRE019", "PRE031", "PRE043", "600"], ["PRE020", "PRE032", "PRE044", "800"],
+      ["PRE021", "PRE033", "PRE045", "1000"], ["PRE022", "PRE034", "PRE046", "1200"],
+      ["PRE023", "PRE035", "PRE047", "1500"], ["PRE024", "PRE036", "PRE048", "2500"]
+    ]
+  },
+  {
+    "id": "grn-disc-premium-nopsa",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "SiC Grinding Disc – Premium Grade (Without PSA)",
+    "description": "Premium grade silicon carbide grinding discs without PSA backing. Available in 8\", 10\" and 12\".",
+    "application": "High quality metallographic sample preparation",
+    "grade": "Premium",
+    "notes": "Without PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit Size"],
+    "variants": [
+      ["PRE049", "PRE061", "PRE073", "80"], ["PRE050", "PRE062", "PRE074", "120"],
+      ["PRE051", "PRE063", "PRE075", "180"], ["PRE052", "PRE064", "PRE076", "220"],
+      ["PRE053", "PRE065", "PRE077", "320"], ["PRE054", "PRE066", "PRE078", "400"],
+      ["PRE055", "PRE067", "PRE079", "600"], ["PRE056", "PRE068", "PRE080", "800"],
+      ["PRE057", "PRE069", "PRE081", "1000"], ["PRE058", "PRE070", "PRE082", "1200"],
+      ["PRE059", "PRE071", "PRE083", "1500"], ["PRE060", "PRE072", "PRE084", "2500"]
+    ]
+  },
+  {
+    "id": "grn-disc-economy-psa",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "SiC Grinding Disc – Economy Grade (With PSA)",
+    "description": "Economy grade silicon carbide grinding discs with PSA backing. Available in 8\", 10\" and 12\".",
+    "application": "Routine metallographic sample preparation",
+    "grade": "Economy",
+    "notes": "With PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit Size"],
+    "variants": [
+      ["EC0013", "EC0025", "EC0037", "80"], ["EC0014", "EC0026", "EC0038", "120"],
+      ["EC0015", "EC0027", "EC0039", "180"], ["EC0016", "EC0028", "EC0040", "220"],
+      ["EC0017", "EC0029", "EC0041", "320"], ["EC0018", "EC0030", "EC0042", "400"],
+      ["EC0019", "EC0031", "EC0043", "600"], ["EC0020", "EC0032", "EC0044", "800"],
+      ["EC0021", "EC0033", "EC0045", "1000"], ["EC0022", "EC0034", "EC0046", "1200"],
+      ["EC0023", "EC0035", "EC0047", "1500"], ["EC0024", "EC0036", "EC0048", "2500"]
+    ]
+  },
+  {
+    "id": "grn-disc-economy-nopsa",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "SiC Grinding Disc – Economy Grade (Without PSA)",
+    "description": "Economy grade silicon carbide grinding discs without PSA backing. Available in 8\", 10\" and 12\".",
+    "application": "Routine metallographic sample preparation",
+    "grade": "Economy",
+    "notes": "Without PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit Size"],
+    "variants": [
+      ["EC049", "EC061", "EC101", "80"], ["EC050", "EC062", "EC102", "120"],
+      ["EC051", "EC063", "EC103", "180"], ["EC052", "EC064", "EC104", "220"],
+      ["EC053", "EC065", "EC105", "320"], ["EC054", "EC066", "EC106", "400"],
+      ["EC055", "EC067", "EC107", "600"], ["EC056", "EC068", "EC108", "800"],
+      ["EC057", "EC069", "EC109", "1000"], ["EC058", "EC070", "EC110", "1200"],
+      ["EC059", "EC071", "EC111", "1500"], ["EC060", "EC072", "EC112", "2500"]
+    ]
+  },
+  {
+    "id": "grn-magnetic-system",
+    "category": "grinding",
+    "subcategory": "SiC Grinding Discs",
+    "title": "Premium Magnetic Disc System",
+    "description": "Magnetic substrate disc and ferromagnetic carrier sheet system. Reduces time replacing PSA-backed consumables.",
+    "application": "Quick-change system for grinding and polishing discs",
+    "grade": "Premium",
+    "notes": "PSA backing pasted on aluminium platen.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Product"],
+    "variants": [
+      ["TMGD801", "TMGD802", "TMGD803", "Magnetic Substrate Disc"],
+      ["TMGDF801", "TMGDF802", "TMGDF803", "Ferromagnetic Carrier Sheet"]
+    ]
+  },
+  {
+    "id": "grn-diamond-resin-apollo",
+    "category": "grinding",
+    "subcategory": "Diamond Embedded Discs",
+    "title": "Diamond Embedded Disc – Apollo S (Resin Bonded, German)",
+    "description": "Resin bonded diamond embedded disc. Replaces conventional SiC discs. Processes 6000–8000 samples. Minimises edge rounding.",
+    "application": "Fine grinding of hard ferrous materials. Nitride and oxide layer grinding without chipping.",
+    "grade": "German",
+    "notes": "Lubricant: Water / water-free for corrosive materials. PSA and metal backed options available.",
+    "moq": null,
+    "variantColumns": ["Code No (PSA)", "Code No (Metal)", "Size (µm)", "Diameter (mm)"],
+    "variants": [
+      ["DRS1251","DRM1251","125","200"], ["DRS1252","DRM1252","125","250"],
+      ["DRS1253","DRM1253","125","300"], ["DRS1254","DRM1254","125","350"],
+      ["DRS911","DRM911","9","200"], ["DRS912","DRM912","9","250"],
+      ["DRS913","DRM913","9","300"], ["DRS914","DRM914","9","350"],
+      ["DRS751","DRM751","7","200"], ["DRS752","DRM752","7","250"],
+      ["DRS753","DRM753","7","300"], ["DRS754","DRM754","7","350"],
+      ["DRS541","DRM541","5","200"], ["DRS542","DRM542","5","250"],
+      ["DRS543","DRM543","5","300"], ["DRS544","DRM544","5","350"],
+      ["DRS181","DRM181","1","200"], ["DRS182","DRM182","1","250"],
+      ["DRS183","DRM183","1","300"], ["DRS184","DRM184","1","350"],
+      ["DRS151","DRM151","1.5","200"], ["DRS152","DRM152","1.5","250"],
+      ["DRS153","DRM153","1.5","300"],
+      ["DRS61","DRM61","6","200"], ["DRS62","DRM62","6","250"], ["DRS63","DRM63","6","300"],
+      ["DRS31","DRM31","3","200"], ["DRS32","DRM32","3","250"], ["DRS33","DRM33","3","300"]
+    ]
+  },
+  {
+    "id": "grn-diamond-resin-sqm",
+    "category": "grinding",
+    "subcategory": "Diamond Embedded Discs",
+    "title": "Diamond Embedded Disc – Squadro M (Patterned, German)",
+    "description": "Patterned surface resin bonded diamond disc. Reduces grinding time versus Apollo and Carat discs.",
+    "application": "Faster grinding on hard ferrous and general metallographic samples",
+    "grade": "German",
+    "notes": "Patterned surface. PSA and metal backed options available.",
+    "moq": null,
+    "variantColumns": ["Code No (PSA)", "Code No (Metal)", "Size (µm)", "Diameter (mm)"],
+    "variants": [
+      ["DRS601T","DRM601T","60","200"], ["DRS602T","DRM602T","60","250"],
+      ["DRS603T","DRM603T","60","300"], ["DRS604T","DRM604T","60","350"],
+      ["DRS301T","DRM301T","30","200"], ["DRS302T","DRM302T","30","250"],
+      ["DRS303T","DRM303T","30","300"], ["DRS304T","DRM304T","30","350"],
+      ["DRS151T","DRM151T","15","200"], ["DRS152T","DRM152T","15","250"],
+      ["DRS153T","DRM153T","15","300"], ["DRS154T","DRM154T","15","350"],
+      ["DRS61T","DRM61T","6","200"], ["DRS62T","DRM62T","6","250"],
+      ["DRS63T","DRM63T","6","300"], ["DRS64T","DRM64T","6","350"],
+      ["DRS31T","DRM31T","3","200"], ["DRS32T","DRM32T","3","250"],
+      ["DRS33T","DRM33T","3","300"], ["DRS34T","DRM34T","3","350"]
+    ]
+  },
+  {
+    "id": "grn-diamond-metal-plato",
+    "category": "grinding",
+    "subcategory": "Diamond Embedded Discs",
+    "title": "Diamond Embedded Disc – Plato (Metal Bonded, German)",
+    "description": "Metal bonded diamond embedded disc for high hardness ferrous, concrete and ceramics.",
+    "application": "High hardness ferrous material, concrete and ceramics",
+    "grade": "German",
+    "notes": "Lubricant: Water / water-free for corrosive materials. PSA and metal backed options available.",
+    "moq": null,
+    "variantColumns": ["Code No (PSA)", "Code No (Metal)", "Size (µm)", "Diameter (mm)"],
+    "variants": [
+      ["DMS1251","DMM1251","125","200"], ["DMS1252","DMM1252","125","250"],
+      ["DMS1253","DMM1253","125","300"],
+      ["DMS751","DMM751","75","200"], ["DMS752","DMM752","75","250"], ["DMS753","DMM753","75","300"],
+      ["DMS541","DMM541","54","200"], ["DMS542","DMM542","54","250"], ["DMS543","DMM543","54","300"],
+      ["DMS101","DMM101","10","200"], ["DMS102","DMM102","10","250"], ["DMS103","DMM103","10","300"]
+    ]
+  },
+  {
+    "id": "grn-diamond-flexible-magnetic",
+    "category": "grinding",
+    "subcategory": "Diamond Embedded Discs",
+    "title": "Diamond Embedded Disc – Flexible Magnetic Backing",
+    "description": "Flexible magnetic backing diamond discs for quick-change magnetic substrate systems. Economy and standard options.",
+    "application": "General grinding applications with magnetic backing system",
+    "grade": "Standard / Economy",
+    "notes": "Available in 8\", 10\" and 12\".",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Grit"],
+    "variants": [
+      ["CM506-8G","CM506-10G","CM506-12G","80"],
+      ["CM506-8R","CM506-10R","CM506-12R","120"],
+      ["CM506-8Y","CM506-10Y","CM506-12Y","220"],
+      ["CM506-8B","CM506-10B","CM506-12B","600"],
+      ["CM506-8O","CM506-10O","CM506-12O","1200"],
+      ["CM506-8L0","CM506-10L0","CM506-12L0","Economy 80"],
+      ["CM506-8L1","CM506-10L1","CM506-12L1","Economy 120"],
+      ["CM506-8L2","CM506-10L2","CM506-12L2","Economy 220"],
+      ["CM506-8L3","CM506-10L3","CM506-12L3","Economy 600"],
+      ["CM506-8L4","CM506-10L4","CM506-12L4","Economy 1200"]
+    ]
+  },
+  {
+    "id": "grn-diamond-metal-usa",
+    "category": "grinding",
+    "subcategory": "Diamond Embedded Discs",
+    "title": "Diamond Embedded Disc – Micron (Metal Bonded, USA Grade)",
+    "description": "USA grade metal bonded diamond embedded discs with PSA backing for precision grinding.",
+    "application": "Precision grinding applications",
+    "grade": "USA",
+    "notes": "8\" (203mm) and 12\" (305mm) available.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (12\")", "Size (µm)"],
+    "variants": [
+      ["M190-165","M191-165","163"],
+      ["M190-70","M191-70","70"],
+      ["M190-45","M191-45","45"],
+      ["M190-30","M191-30","30"],
+      ["M190-15","M191-15","15"],
+      ["M190-9","M191-9","9"]
+    ]
+  },
+  {
+    "id": "grn-spectrographic-disc",
+    "category": "grinding",
+    "subcategory": "Spectrographic Grinding Discs",
+    "title": "Spectrographic Grinding Disc",
+    "description": "Large coarse alumina abrasive discs for grinding samples prior to spectrographic analysis.",
+    "application": "Coarse grinding of large samples prior to spectrographic analysis",
+    "grade": "Standard",
+    "notes": "Size: 350 x 40 mm. Without PSA.",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["SGD002", "36"],
+      ["SGD003", "60"],
+      ["SGD004", "80"]
+    ]
+  },
+  {
+    "id": "grn-portable-disc",
+    "category": "grinding",
+    "subcategory": "Portable Grinding Discs",
+    "title": "Portable Grinding Disc",
+    "description": "Grinding discs for portable grinding machines. Used for on-site testing of workpieces in foundries, welding shops, fabrication plants.",
+    "application": "On-site grinding in foundries, welding shops, fabrication plants, steel mills, forge shops and shipyards.",
+    "grade": "Standard",
+    "notes": "Size: 30 mm. With PSA.",
+    "moq": null,
+    "variantColumns": ["Code No", "Grit Size"],
+    "variants": [
+      ["SED007","80"], ["SED008","120"], ["SED009","180"], ["SED010","220"],
+      ["SED011","320"], ["SED012","400"], ["SED013","600"], ["SED014","800"],
+      ["SED015","1000"], ["SED016","1200"], ["SED017","1500"], ["SED018","2000"]
+    ]
+  },
+  {
+    "id": "pol-cloth-indian-nopsa",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – Indian Grade",
+    "title": "Polishing Cloth – Indian Grade (Without PSA)",
+    "description": "Indian grade polishing cloths. Available in Velvet, Micro Cloth, Selvyt and Billards types. Without PSA backing.",
+    "application": "Rough to ultra-fine polishing of metallographic samples",
+    "grade": "Indian",
+    "notes": "10 Nos per pack. Available in 10\", 12\" and 14\".",
+    "moq": null,
+    "variantColumns": ["Code No (10\")", "Code No (12\")", "Code No (14\")", "Cloth Type", "Use"],
+    "variants": [
+      ["PC001","PC12V","PC14V","Velvet – Long Napped Synthetic","3–4 µm diamond paste, fine polishing"],
+      ["PC002","PC12M","PC14M","Micro Cloth – Short Nap Synthetic Rayon","0.5–1 µm diamond paste, ultra-fine polishing"],
+      ["PC003","PC12S","PC14S","Selvyt – Short Piled Cotton","Alumina / colloidal silica, mirror finish"],
+      ["PC004","PC12B","PC14B","Billards – Napless Wool","6–12 µm diamond paste, rough polishing"],
+      ["LP10PC","LP12PC","—","Velvet Black","Fine polishing"],
+      ["LP10BR","LP12BRPC","—","Velvet Brown","Fine polishing"]
+    ]
+  },
+  {
+    "id": "pol-cloth-indian-psa",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – Indian Grade",
+    "title": "Polishing Cloth – Indian Grade (With PSA)",
+    "description": "Indian grade polishing cloths with PSA backing. Available in 8\" and 10\".",
+    "application": "Fine polishing of metallographic samples",
+    "grade": "Indian",
+    "notes": "10 Nos per pack.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Cloth Type"],
+    "variants": [
+      ["LP001","LP003","Velvet Black – With PSA"],
+      ["LP002","LP004","Velvet Brown – With PSA"],
+      ["LP005","LP006","Velvet – With PSA"]
+    ]
+  },
+  {
+    "id": "pol-cloth-portable-indian",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – Indian Grade",
+    "title": "Portable Polishing Cloth",
+    "description": "Portable polishing cloths for portable polishing devices. For on-site inspection of metals.",
+    "application": "On-site surface polishing with portable polishing devices",
+    "grade": "Indian / German",
+    "notes": "30 mm size with PSA backing.",
+    "moq": null,
+    "variantColumns": ["Code No", "Type"],
+    "variants": [
+      ["PCS002","Velvet Grey, 30 mm, with PSA"],
+      ["LP30PS","Velvet Black Premium, 30 mm, with PSA"],
+      ["LP30BRPS","Velvet Brown Premium, 30 mm, with PSA"],
+      ["TECH029","Technotron MM 420, 75 mm, German Grade, with PSA"]
+    ]
+  },
+  {
+    "id": "pol-cloth-usa-psa",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – USA Grade",
+    "title": "Polishing Cloth – USA Grade (With PSA)",
+    "description": "USA grade premium polishing cloths with PSA backing. Wide range of cloth types for all polishing stages. Available in 8\", 10\" and 12\".",
+    "application": "All stages of metallographic polishing from rough to final finish",
+    "grade": "USA",
+    "notes": "5 or 10 Nos per pack depending on type.",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Cloth Type", "Use"],
+    "variants": [
+      ["M620-8PS","M620-10PS","M620-12PS","Dia-Mol – Long Napped Synthetic","3 µm and finer diamond, soft materials"],
+      ["M630-8PS","M630-10PS","M630-12PS","Dia-Nap – Very Napped Short Synthetic","1 µm and finer diamond, ferrous & carbides"],
+      ["M660-8PS","M660-10PS","M660-12PS","Chem Pad – Napless Soft Synthetic Chemoresistant","Alumina, colloidal silica, 1 µm and finer diamond"],
+      ["M615-8PS","M615-10PS","M615-12PS","Dia-Dac – Napless Satin Acetate","15 to 3 µm diamond, pre-polishing"],
+      ["M610-8PS","M610-10PS","M610-12PS","Dia-Plan – Napless Woven Polyester Nylon","6 to 1 µm diamond, flatness on hard materials"],
+      ["M625-8PS","M625-10PS","M625-12PS","Dia-Plus – Napless Woven Wool","3 µm diamond, ferrous and sintered carbides"],
+      ["M570-8PS","M570-10PS","M570-12PS","Red Felt – Napless 100% Virgin Wool","1 µm diamond and alumina, rough/intermediate polishing"],
+      ["M500-8PS","M500-10PS","M500-12PS","Micro Cloth – Short Napped Synthetic Rayon","Alumina and 1 µm diamond, final polishing"],
+      ["M536-8PS","M536-10PS","M536-12PS","Vel Lab – Short Nap","Aluminas, diamond and colloidal silica, soft metals"],
+      ["M560-8PS","M560-10PS","M560-12PS","Pan W – Napless Hard Synthetic Chemotextile","3 µm or finer diamond, flatness and inclusion retention"]
+    ]
+  },
+  {
+    "id": "pol-cloth-usa-magnetic",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – USA Grade",
+    "title": "Polishing Cloth – USA Grade (Magnetic Backing)",
+    "description": "USA grade polishing cloths with magnetic backing for use with the magnetic substrate disc system.",
+    "application": "All stages of metallographic polishing with quick-change magnetic system",
+    "grade": "USA",
+    "notes": "Available in 8\", 10\" and 12\".",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Cloth Type"],
+    "variants": [
+      ["M620-8MD","M620-10MD","M620-12MD","Dia-Mol"],
+      ["M630-8MD","M630-10MD","M630-12MD","Dia-Nap"],
+      ["M660-8MD","M660-10MD","M660-12MD","Chem Pad"],
+      ["M615-8MD","M615-10MD","M615-12MD","Dia-Dac"],
+      ["M610-8MD","M610-10MD","M610-12MD","Dia-Plan"],
+      ["M625-8MD","M625-10MD","M625-12MD","Dia-Plus"],
+      ["M500-8MD","M500-10MD","M500-12MD","Micro Cloth"],
+      ["M560-8MD","M560-10MD","M560-12MD","Pan W"]
+    ]
+  },
+  {
+    "id": "pol-cloth-german-psa",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – German Grade",
+    "title": "Polishing Cloth – German Grade (With PSA)",
+    "description": "German grade polishing cloths with PSA backing. Premium quality for all stages of metallographic polishing. Available in 8\" to 16\".",
+    "application": "All stages of metallographic polishing from pre-polishing to final oxide polishing",
+    "grade": "German",
+    "notes": "Available 8\", 10\", 12\", 14\" and 16\".",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Cloth Type", "Use"],
+    "variants": [
+      ["PCG11","PCG41","Quick-Step – Hard Synthetic 0.5mm","6–15 µm diamond, pre-polishing, high removal rate"],
+      ["PCG12","PCG42","Step-Plus – 0.75mm","6–3 µm diamond, good removal rate"],
+      ["PCG13","PCG43","Samba-N – Woven Wool 0.65mm","1–15 µm diamond, fine polishing of larger workpieces"],
+      ["PCG14","PCG44","Jazz-Plus – Non-woven PU 0.7mm","1–6 µm diamond, metals and optical materials"],
+      ["PCG15","PCG45","Fox-Plus – Flocked 0.85mm","1–15 µm diamond"],
+      ["PCG16","PCG46","Swing-Plus – Flocked 0.7mm","0.1–6 µm diamond, super-finishing"],
+      ["PCG17","PCG47","Alupol-Plus – Flocked 0.6mm","0.1–3 µm diamond and alumina"],
+      ["PCG18","PCG48","Mambo – Spongy 1.5mm","Alumina and colloidal silica, final oxide polishing"]
+    ]
+  },
+  {
+    "id": "pol-cloth-german-metal",
+    "category": "polishing",
+    "subcategory": "Polishing Cloths – German Grade",
+    "title": "Polishing Cloth – German Grade (Metal Backing)",
+    "description": "German grade polishing cloths with metal backing for machines with metal disc platens.",
+    "application": "All stages of metallographic polishing with metal backing system",
+    "grade": "German",
+    "notes": "Available in 8\", 10\", 12\" and 14\".",
+    "moq": null,
+    "variantColumns": ["Code No (8\")", "Code No (10\")", "Code No (12\")", "Code No (14\")", "Cloth Type"],
+    "variants": [
+      ["PCG01","PCG21","PCG31","PDG01","Quick-Step"],
+      ["PCG02","PCG22","PCG32","PDG02","Step-Plus"],
+      ["PCG03","PCG23","PCG33","PDG03","Samba-N"],
+      ["PCG04","PCG24","PCG34","PDG04","Jazz-Plus"],
+      ["PCG05","PCG25","PCG35","PDG05","Fox-Plus"],
+      ["PCG06","PCG26","PCG36","PDG06","Swing-Plus"],
+      ["PCG07","PCG27","PCG37","PDG07","Alupol-Plus"],
+      ["PCG08","PCG28","PCG38","PDG08","Mambo"]
+    ]
+  },
+  {
+    "id": "pol-diamond-paste-indian",
+    "category": "polishing",
+    "subcategory": "Diamond Paste & Lubricants",
+    "title": "Diamond Paste – Indian Grade",
+    "description": "Diamond paste for metallographic polishing. Available in 1, 3 and 6 micron grades. Use with lubricant.",
+    "application": "Metallographic polishing on polishing cloths",
+    "grade": "Indian",
+    "notes": "0.005 kg / 5cc per unit. Use with lubricant aerosol or liquid.",
+    "moq": null,
+    "variantColumns": ["Code No", "Particle Size (µm)"],
+    "variants": [
+      ["DP001", "1"],
+      ["DP002", "3"],
+      ["DP003", "6"]
+    ]
+  },
+  {
+    "id": "pol-diamond-paste-usa-mono",
+    "category": "polishing",
+    "subcategory": "Diamond Paste & Lubricants",
+    "title": "Diamond Paste – USA Grade (Monocrystalline, Water & Oil Soluble)",
+    "description": "USA grade monocrystalline diamond paste. Water and oil soluble. Available in 5g, 10g and 20g.",
+    "application": "High quality metallographic polishing on polishing cloths",
+    "grade": "USA",
+    "notes": "Water and oil soluble. Available in 5g, 10g and 20g.",
+    "moq": null,
+    "variantColumns": ["Code No (5g)", "Code No (10g)", "Code No (20g)", "Particle Size (µm)"],
+    "variants": [
+      ["M200","M200P","M201","0.25"],
+      ["M202","M202P","M203","1"],
+      ["M204","M204P","M205","3"],
+      ["M206","M206P","M207","6"],
+      ["M208","M208P","M209","9"],
+      ["M210","M210P","M211","15"],
+      ["M212","M212P","M213","30"],
+      ["M214","—","M215","45"]
+    ]
+  },
+  {
+    "id": "pol-lubricant",
+    "category": "polishing",
+    "subcategory": "Diamond Paste & Lubricants",
+    "title": "Diamond Polishing Lubricant",
+    "description": "Lubricants for use with diamond pastes and slurries. Alcohol, water and oil based. Available in multiple volumes.",
+    "application": "Used with diamond pastes and diamond slurries during metallographic polishing",
+    "grade": "USA",
+    "notes": "Available in quart (950 ml), gallon (3.8L) and 5 gallon (19L).",
+    "moq": null,
+    "variantColumns": ["Code No", "Type", "Volume"],
+    "variants": [
+      ["M225-32","Purple – Alcohol Based","950 ml"],
+      ["M225-128","Purple – Alcohol Based","3.8 L"],
+      ["M225-640","Purple – Alcohol Based","19 L"],
+      ["M226-32","Green – Water Based","950 ml"],
+      ["M226-128","Green – Water Based","3.8 L"],
+      ["M226-640","Green – Water Based","19 L"],
+      ["M227-32","Red – Water/Oil Based","950 ml"],
+      ["M227-128","Red – Water/Oil Based","3.8 L"],
+      ["M227-640","Red – Water/Oil Based","19 L"],
+      ["M220-32","Brown – Alcohol Based","950 ml"],
+      ["M222","Blue Lube – Ethanol Based","Standard"],
+      ["M223","Lubricant Integrated +","Standard"],
+      ["M224","Lubricant Integrated +","Standard"],
+      ["DL001","Lubricant Aerosol Spray","200 ml"],
+      ["DL001L","Lubricant Liquid","1 Ltr"]
+    ]
+  },
+  {
+    "id": "pol-diamond-aerosol-usa",
+    "category": "polishing",
+    "subcategory": "Diamond Aerosol Spray",
+    "title": "Diamond Aerosol Spray – USA Grade",
+    "description": "USA grade diamond aerosol spray. Convenient spray application of diamond compound on polishing cloths. 150 ml per can.",
+    "application": "Metallographic polishing – spray application on polishing cloths",
+    "grade": "USA",
+    "notes": "150 ml per can.",
+    "moq": null,
+    "variantColumns": ["Code No", "Particle Size (µm)"],
+    "variants": [
+      ["M288","0.25"], ["M289","1"], ["M290","3"], ["M291","6"],
+      ["M292","9"], ["M293","15"], ["M294","30"], ["M295","45"]
+    ]
+  },
+  {
+    "id": "pol-diamond-suspension-premium",
+    "category": "polishing",
+    "subcategory": "Diamond Slurry & Suspension",
+    "title": "Premium Diamond Suspension",
+    "description": "Premium polycrystalline and monocrystalline water-based diamond suspensions. 240 ml bottles.",
+    "application": "High quality metallographic polishing",
+    "grade": "Premium",
+    "notes": "240 ml per bottle. Polycrystalline and monocrystalline available.",
+    "moq": null,
+    "variantColumns": ["Code No (Polycrystalline)", "Code No (Monocrystalline)", "Particle Size (µm)"],
+    "variants": [
+      ["PREDS250","PREDS270","0.25"],
+      ["PREDS251","PREDS271","0.1"],
+      ["PREDS252","PREDS272","0.5"],
+      ["PREDS253","PREDS273","1"],
+      ["PREDS254","PREDS274","3"],
+      ["PREDS255","PREDS275","6"],
+      ["PREDS256","PREDS276","9"],
+      ["PREDS257","PREDS277","15"],
+      ["PREDS258","—","30"],
+      ["PREDS259","—","45"]
+    ]
+  },
+  {
+    "id": "pol-diamond-suspension-economy",
+    "category": "polishing",
+    "subcategory": "Diamond Slurry & Suspension",
+    "title": "Economy Diamond Suspension",
+    "description": "Economy grade polycrystalline and monocrystalline water-based diamond suspensions. 240 ml bottles.",
+    "application": "Routine metallographic polishing",
+    "grade": "Economy",
+    "notes": "240 ml per bottle.",
+    "moq": null,
+    "variantColumns": ["Code No (Polycrystalline)", "Code No (Monocrystalline)", "Particle Size (µm)"],
+    "variants": [
+      ["ECODS001","ECODS017","0.25"],
+      ["ECODS002","ECODS018","1"],
+      ["ECODS003","ECODS019","0.5"],
+      ["ECODS004","ECODS020","3"],
+      ["ECODS005","ECODS021","6"],
+      ["ECODS006","ECODS022","9"],
+      ["ECODS007","ECODS023","15"],
+      ["ECODS008","ECODS024","30"],
+      ["—","ECODS025","45"]
+    ]
+  },
+  {
+    "id": "oxide-alumina",
+    "category": "oxide-polishing",
+    "subcategory": "Alumina Compounds",
+    "title": "Alumina Polishing Compound",
+    "description": "Alumina compounds for ultra-fine polishing. Available as powder, fast pol suspension and premium de-agglomerated suspensions.",
+    "application": "Ultra-fine final stage metallographic polishing",
+    "grade": "Standard / Premium",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Type", "Size (µm)", "Quantity"],
+    "variants": [
+      ["AP001","Alumina Powder","1","1 kg"],
+      ["FP001","Alumina Fast Pol Suspension","—","200 ml"],
+      ["M300","Alumina Powder – Premium De-agglomerated","0.05","455g"],
+      ["M301","Alumina Powder – Premium De-agglomerated","0.3","455g"],
+      ["M302","Alumina Powder – Premium De-agglomerated","1","455g"],
+      ["IFP00004","Alumina Suspension – Premium","0.05","200 ml"],
+      ["IFP00002","Alumina Suspension – Premium","0.1","200 ml"],
+      ["IFP00003","Alumina Suspension – Premium","0.3","200 ml"],
+      ["IFP00001","Alumina Suspension – Premium","1","200 ml"]
+    ]
+  },
+  {
+    "id": "oxide-colloidal-silica",
+    "category": "oxide-polishing",
+    "subcategory": "Colloidal Silica",
+    "title": "Colloidal Silica Polishing Suspension",
+    "description": "Colloidal silica suspension for final ultra-fine polishing of metallographic samples.",
+    "application": "Ultra-fine final polishing of metallographic samples",
+    "grade": "Standard / Premium",
+    "notes": "pH 10.5 for premium grade.",
+    "moq": null,
+    "variantColumns": ["Code No", "Type", "Particle Size (µm)", "Volume"],
+    "variants": [
+      ["WC511-OPSQ","Economical Colloidal Silica","0.04","1000 ml"],
+      ["M511-OPSQ","Premium Colloidal Silica pH 10.5","0.04","1000 ml"]
+    ]
+  },
+  {
+    "id": "acc-metallurgical-charts",
+    "category": "accessories",
+    "subcategory": "Metallurgical Charts",
+    "title": "Metallurgical Reference Charts",
+    "description": "Large format laminated reference charts for metallurgical laboratories. Hardness conversion, grain size, inclusion rating and iron-carbon diagram.",
+    "application": "Laboratory reference for metallographic analysis",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Chart Name", "Size (mm)"],
+    "variants": [
+      ["AHC001","Alpha Hardness Conversion Chart","650 x 500"],
+      ["GS0004","Grain Size Chart","900 x 630"],
+      ["IR0003","Inclusion Rating Chart","820 x 700"],
+      ["ICD002","Iron Carbon Diagram","680 x 500"]
+    ]
+  },
+  {
+    "id": "acc-etchant",
+    "category": "accessories",
+    "subcategory": "Etching Chemicals",
+    "title": "Nital Etchant",
+    "description": "Nital etchant for metallographic etching of ferrous samples to reveal microstructure.",
+    "application": "Metallographic etching of ferrous samples",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Volume"],
+    "variants": [
+      ["LABAC-110","5 ml"],
+      ["LABAC-110","20 ml"],
+      ["LABAC-110","50 ml"]
+    ]
+  },
+  {
+    "id": "acc-glassware",
+    "category": "accessories",
+    "subcategory": "Lab Glassware",
+    "title": "Borosilicate Lab Beaker",
+    "description": "Heat resistant borosilicate glass beakers for metallographic laboratory use.",
+    "application": "Chemical handling in metallographic laboratories",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Volume"],
+    "variants": [
+      ["LABAC-004","50 ml"],
+      ["LABAC-005","1000 ml"]
+    ]
+  },
+  {
+    "id": "acc-lab-consumables",
+    "category": "accessories",
+    "subcategory": "Lab Consumables",
+    "title": "Lab Consumables & Accessories",
+    "description": "General laboratory consumables and accessories for metallographic sample preparation and analysis.",
+    "application": "General metallographic laboratory use",
+    "grade": "Standard",
+    "notes": null,
+    "moq": null,
+    "variantColumns": ["Code No", "Product", "Quantity"],
+    "variants": [
+      ["LABAC-085","Aluminium Foil (sample wrapping before hot mounting)","Standard"],
+      ["LABAC-001","Tweezers","1 No"],
+      ["LABAC-090","Lab Coat White Half Sleeve","1 No"],
+      ["CB1135","Micro Meter / Screw Gauge","1 No"],
+      ["LABAC-091","Sample Storage Box (Plastic)","1 No"],
+      ["LABAC-029","PVC Lab Gloves Medium","1 Pair"],
+      ["LABAC-040","PVC Lab Gloves Large","1 Pair"],
+      ["LABAC-088","Burette Set","1 Set"],
+      ["LABAC-042","Test Tube 10 ml","1 Pack (5 Nos)"],
+      ["LABAC-086","Test Tube 30 ml","1 Pack (5 Nos)"],
+      ["LABAC-093","Vials / Cylindrical Small Box 5 ml","1 Pack (10 Nos)"],
+      ["LABAC-016","Borosilicate Glass Pipette 10 ml with Bulb","1 No"],
+      ["LABAC-094","Filter Paper","1 Pack (100 Nos)"],
+      ["LABAC-009","Tissue Paper Roll 2 Ply","1 Pack"],
+      ["LABAC-019","Tissue Paper Roll 3 Ply","1 Pack"],
+      ["LABAC-092","Petri Dish","1 Pack (5 Nos)"],
+      ["LABAC-087","Silica Gel","5 Grams"]
+    ]
+  }
+]
